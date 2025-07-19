@@ -1,7 +1,6 @@
 
 *.log
 *.pot
-
 __pycache__
 *.bak 
 *.py[cod] 
